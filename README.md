@@ -7,5 +7,6 @@
 
 ![scrin1](https://github.com/Igor-Shevtsov/info_bot/blob/main/scrin2.png)
 ![scrin2](https://github.com/Igor-Shevtsov/info_bot/blob/main/scrin1.png)
+![scrin2](https://github.com/Igor-Shevtsov/info_bot/blob/main/scrin3.png)
 
 
